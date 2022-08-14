@@ -1,0 +1,36 @@
+{
+  "name": "react-native-according-smashup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhojaniasgar/react-native-according-smashup.git"
+  },
+  "keywords": [
+    "react",
+    "Expandable",
+    "smashup",
+    "ClicktoExpand",
+    "react-native",
+    "Accordion",
+    "Collapse",
+    "show",
+    "hide",
+    "click to show/hide",
+    "android",
+    "ios"
+  ],
+  "author": "Bhojani Asgar",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.get": "4.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/bhojaniasgar/react-native-according-smashup/issues"
+  },
+  "homepage": "https://github.com/bhojaniasgar/react-native-according-smashup#readme"
+}
